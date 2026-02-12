@@ -1,9 +1,8 @@
-# Daily Briefing — 2026-02-07 (Market Closed — Weekend)
+# Daily Briefing — 2026-02-12 (Market Open)
 
 ## Reality Check
 - **No strategy can guarantee turning $1,000 into $100,000 in one year or guarantee never going below $1,000.**
 - This workflow is research + decision support, not financial advice. The user must verify and approve every trade.
-- Weekend briefing: research and watchlist updates only. No trades.
 
 ---
 
@@ -15,213 +14,237 @@
 | **Open Positions** | 0 |
 | **Realized P/L** | $0.00 |
 | **Rolling 5-day sells used** | 0 / 3 (remaining: 3) |
-| **Day** | Saturday — US markets closed |
-
-**Next trading day: Monday, February 9, 2026 at 9:30 AM ET.**
+| **Day** | Thursday, Feb 12 — US markets OPEN |
 
 ---
 
-## Friday Close / Weekly Recap (Feb 6, 2026)
+## Overnight / Macro
 
-### Index Levels (Friday Close)
-| Index | Close | Day Change | Week Change |
-|---|---|---|---|
-| S&P 500 | 6,932.30 | +1.97% | -0.1% |
-| Dow Jones | 50,115.67 | +2.47% (+1,207 pts) | +2.5% |
-| Nasdaq | 23,031.21 | +2.18% | -1.8% |
-| VIX | 17.76 | — | Range: 14.43–23.10 past month |
+### Index Levels (Intraday Feb 12, ~midday)
+| Index | Level | Day Change |
+|---|---|---|
+| S&P 500 | ~6,865 | -1.1% |
+| Dow Jones | ~49,580 | -1.1% |
+| Nasdaq Composite | ~22,700 | -1.6% |
+| Russell 2000 | — | -2.1% |
+| VIX | 17.64 | -0.84% (range 16.75–18.96 today) |
 
 ### Key Rates & Commodities
-| Metric | Level |
-|---|---|
-| 10Y Treasury | 4.22% |
-| WTI Crude | ~$63.55/bbl |
-| Fed Funds | 3.50%–3.75% (95% prob unchanged per FedWatch) |
+| Metric | Level | Change |
+|---|---|---|
+| 10Y Treasury | 4.16% | Unchanged |
+| WTI Crude | $65.12/bbl | +1.81% |
+| Fed Funds | 3.50%–3.75% | CME: 93.6% prob of 25bp cut in June |
+| USD Index (DXY) | 96.73 | -0.08% |
 
-### Week Narrative
-- **Tech rout + recovery:** The Nasdaq lost >$1.5T in value over 3 days (worst since April) on AI spending concerns, then bounced hard Friday. NVDA +8%, AVGO +7%.
-- **Amazon (-9%):** Earnings narrowly missed ($1.95 vs $1.97 EPS); shocked market with $200B 2026 capex forecast focused on AWS/AI. Revenue and AWS both beat. [CNBC](https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html)
-- **Palantir earnings blowout:** 70% revenue growth, guided FY26 at $7.2B vs $6.2B consensus. Stock surged after-hours. [CNBC](https://www.cnbc.com/2026/02/03/palantir-soars-after-strong-earnings-what-analysts-highlighted.html)
-- **Seagate (+19%):** AI storage "supercycle" — capacity fully allocated for rest of calendar year. [MarketMinute](https://markets.financialcontent.com/stocks/article/marketminute-2026-2-5-the-ai-storage-pivot-seagate-shares-rocket-19-as-hard-drive-demand-hits-unprecedented-peaks)
-- **Energy best sector (+3.7%):** US-Iran diplomacy easing oil supply fears; WTI at $63–64.
-- **Dow cracked 50,000** for the first time, led by Caterpillar (+7%) and 3M (+4.5%). [CNN](https://www.cnn.com/2026/02/06/markets/tech-stocks-meltdown-why)
-- **Stellantis (-20%):** $26B business reset costs.
+### Macro Headlines
+- **Jobs report surprise (released Feb 10):** January nonfarm payrolls came in at +130,000 (vs +55,000 expected), revised December down to 48,000. Unemployment dipped to 4.3%. Strong labor data pushed back rate-cut expectations.
+- **CPI TOMORROW (Feb 13, 8:30 AM ET):** January CPI was delayed by the government shutdown. Consensus: headline CPI ~2.5% YoY (down from 2.7%), core CPI ~2.6% YoY. This is the marquee event of the week. A hot print could slam equities; a cool print could fuel a rally.
+- **Fed posture:** No cut expected at next two meetings. June cut priced at ~94%. The strong jobs number gave hawkish FOMC members ammunition.
+- **AI capex theme persists:** Alphabet guided FY26 CapEx to $175–185B (well above $115B consensus); Amazon's $200B plan still reverberating. Markets debating whether massive AI spend will pay off.
+- **Broad risk-off today:** All megacaps lower (AAPL -4%, AMZN -1.4%, PLTR -6.3%, META -3%+). Software ETF -3.1%. Russell 2000 leading losses at -2.1%.
+- **Initial claims:** 227,000 (vs 230K expected) — labor market remains firm.
+- **Existing home sales:** Fell 8.4% MoM to 3.91M (vs 4.15M est) — housing still weak.
 
 ### Sources
-- [CNBC Market Recap Feb 6](https://www.cnbc.com/2026/02/05/stock-market-today-live-updates.html)
-- [Schwab Market Update](https://www.schwab.com/learn/story/stock-market-update-open)
-- [StockMarketWatch](https://stockmarketwatch.com/live/stock-market-today/)
-
----
-
-## Calendar: Week of Feb 9–13, 2026
-
-### Earnings (Major)
-| Date | Company | Ticker | Notes |
-|---|---|---|---|
-| Mon Feb 10 | Coca-Cola | KO | Q4 EPS ~$0.56, Rev ~$12.05B expected |
-| Wed Feb 11 | Shopify | SHOP | Q4 EPS ~$0.52, Rev ~$2.95B; pre-market |
-| TBD | Others | — | Check [Earnings Whispers](https://www.earningswhispers.com/calendar) for full list |
-
-### Economic Releases
-| Date | Event | Significance |
-|---|---|---|
-| Tue/Wed Feb 11–13 | **CPI (Jan 2026)** | Consensus ~2.7% YoY; key for Fed rate path |
-| Various | Fed speakers | Monitor for rate commentary |
-
-**CPI is the marquee event.** A hot print could reset rate-cut expectations and pressure equities. A cool print could fuel a continuation of Friday's rally. [BLS Schedule](https://www.bls.gov/schedule/2026/home.htm)
+- [CNBC — Stock market Feb 11](https://www.cnbc.com/2026/02/10/stock-market-today-live-updates.html)
+- [Yahoo Finance — Jobs surprise](https://ca.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-jobs-surprise-puts-focus-back-on-feds-rate-path-233948352.html)
+- [Schwab — Market Update](https://www.schwab.com/learn/story/stock-market-update-open)
+- [Seeking Alpha — CPI preview](https://seekingalpha.com/article/4867319-four-things-to-consider-january-2026-cpi-report)
+- [Kiplinger — CPI expectations](https://www.kiplinger.com/investing/economy/cpi-report-january-2026-what-to-expect)
+- [24/7 Wall St — Feb 12 market live](https://247wallst.com/investing/2026/02/12/stock-market-live-february-12-2026-sp-500-spy-could-see-higher-highs/)
+- [Nasdaq — Market news Feb 12](https://www.nasdaq.com/articles/stock-market-news-feb-12-2026)
 
 ---
 
 ## Portfolio Review
-**No open positions.** First trades will be placed Monday at earliest.
+**No open positions.** 100% cash. No action required.
+
+This is actually advantageous today — the broad selloff creates potential entry points, but with CPI dropping tomorrow morning, entering today carries event risk. Patience is warranted.
 
 ---
 
-## Candidate List (Watchlist — Top 12)
+## Candidate List (Top 15)
 
-| # | Symbol | Price | Catalyst | Bull Case | Bear Case | Liquidity | Conf. | Risk |
+### Updated Watchlist With Fresh Data
+
+| # | Symbol | Price (Today) | Catalyst | Bull Case | Bear Case | Liquidity | Conf. | Risk |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **AMZN** | ~$225 | Post-earnings dip (-9%); $200B capex fear | AWS 24% growth (fastest in 13 quarters); 45 analysts Strong Buy, avg PT $287 (+28%); revenue beat | Capex drag on FCF; high share price limits position size at $1K | Very High | 4 | 3 |
-| 2 | **NVDA** | ~$185 | Friday rebound +8% after 3-day selloff | AI infrastructure leader; DeepSeek scare created entry; massive TAM | Valuation premium; AI capex cycle could slow; volatile | Very High | 4 | 3 |
-| 3 | **SHOP** | ~$112 | Earnings Feb 11 (pre-market) | Mid-high 20% revenue growth; AI commerce tools; expanding TAM | AI disruption concerns; high valuation; binary earnings risk | High | 3 | 4 |
-| 4 | **KO** | ~$79 | Earnings Feb 10; defensive rotation | 2.64% dividend; +13% YTD; stable demand; recession-resistant | Low growth ceiling; currency headwinds; boring for $1K account | Very High | 3 | 1 |
-| 5 | **PLTR** | ~$100 | Post-earnings beat; 70% rev growth | AI platform dominance; FY26 guide crushed estimates; gov + commercial | Extreme valuation (>60x sales?); hype-driven; could retrace fast | High | 3 | 4 |
-| 6 | **APH** | ~$145 | Pullback -15% from ATH $167 | 24% rev / 30% EPS growth; AI/connectivity beneficiary; Strong Buy | Broad tech rotation risk; industrial exposure if economy slows | High | 3 | 3 |
-| 7 | **DECK** | ~$112 | Beat Q3 earnings by 20%; raised guide | HOKA brand momentum; premium consumer; pricing power | High valuation; consumer slowdown risk; athletic wear competitive | High | 3 | 3 |
-| 8 | **STX** | ~$418 | AI storage supercycle; +19% on earnings | Capacity sold out; 53% EPS growth expected; AI data tailwind | CEO selling shares; $418/share too big for $1K account in stock | High | 3 | 3 |
-| 9 | **RGTI** | ~$30 | Quantum computing hype; consolidating | Massive TAM if quantum scales; gov contracts; +4300% prior run | Speculative; revenue minimal; could easily drop 50%+ | Medium | 2 | 5 |
-| 10 | **IREN** | ~$15 | AI data center; 168% rev growth | Nvidia GPU access; 3GW power; non-dilutive funding; cheap entry | Unproven at scale; small cap volatility; execution risk | Medium | 2 | 4 |
-| 11 | **CAT** | ~$400+ | +7% Friday; infrastructure/cyclical leader | Dow component; infrastructure spending; strong execution | Cyclical risk; high share price; tariff exposure | Very High | 3 | 3 |
-| 12 | **XLE/XOP** | ~$90/$140 | Energy sector led weekly gains +3.7% | Oil diplomacy creating floor; buyback support from XOM/CVX | Oil at $63 is low; demand concerns; diplomatic uncertainty | Very High | 2 | 3 |
+| 1 | **AMZN** | ~$204 | Post-earnings dip continuing; down ~19% from Nov highs | AWS 24% growth (fastest 13Q); 45 analysts Strong Buy, avg PT $283 (+39%); revenue beat Q4 | Capex drag ($200B); missed EPS; broader tech selloff today; CPI risk | Very High | 4 | 3 |
+| 2 | **NVDA** | ~$189 | AI chip leader; Commerce Sec. confirmed no chip export restrictions | DeepSeek fears faded; HBM demand surging (see MU); Rubin platform on track; avg PT $254 (+34%) | Valuation premium (47x PE); AI capex cycle questions; $189/share expensive for $1K acct | Very High | 4 | 3 |
+| 3 | **MU** | ~$430 | HBM4 volume shipments 1Q early; 2026 supply 100% committed | CFO confirmed HBM4 ahead of schedule; Morgan Stanley PT $450; Deutsche Bank PT $500; 10% surge today | Already surged 10%+ today — chasing risk; 1 share = 43% of equity (too concentrated in stock) | Very High | 3 | 3 |
+| 4 | **SHOP** | ~$110 | Q4 earnings: revenue beat (+30.6% YoY), EPS miss ($0.48 vs $0.51); -13% | Revenue growth accelerating (guided low-30s% for Q1); $2B buyback; AI commerce tools; TD Cowen upgraded to Buy, PT $159 | EPS miss spooked market; margin guidance soft; high valuation; still falling today | High | 3 | 4 |
+| 5 | **FSLY** | ~$16+ | Blockbuster Q4: EPS $0.12 (vs $0.06 est), rev $172.6M (+23%); stock +60% today | Agentic AI traffic tailwind; record 64% gross margin; FY26 guide $700-720M (vs $668M est); upgraded by William Blair | Stock already surged 60%+ — extreme chase risk; small cap, volatile; still sub-$20 stock | Medium | 2 | 5 |
+| 6 | **EQIX** | ~$1,000+ | Q4 beat; 2026 revenue guide $10.1-10.2B (above est); +8% today | AI data center demand; record bookings; 10% dividend increase; AFFO beat | Share price way too high for $1K account in stock; REIT, interest-rate sensitive | Very High | 3 | 2 |
+| 7 | **PLTR** | ~$135 | Post-earnings glow fading; down from $207 peak; -6.3% today | 70% rev growth; FY26 guide crushed estimates ($7.2B); gov + commercial AI platform | Extreme valuation (199x PE, 69x P/S); down ~35% from highs; today's selloff shows momentum fading | High | 3 | 4 |
+| 8 | **IREN** | ~$43 | Microsoft $9.7B AI cloud contract; pivoting from BTC mining to AI infra | $1.9B ARR potential at 85% EBITDA margins; 4.5GW power portfolio; analyst PTs $79-105 (+85-145%) | Q2 earnings miss (-$0.52 vs -$0.11 est); volatile small cap; execution risk on massive pivot | Medium | 3 | 4 |
+| 9 | **KO** | ~$78 | Q4 reported Feb 10: EPS beat ($0.58 vs $0.56), revenue miss ($11.8B vs $12.05B) | Defensive; 63 consecutive dividend increases; 2026 guide: 4-5% organic rev growth, 7-8% EPS growth | Revenue miss; $960M BODYARMOR impairment; CEO stepping down March 2026; low growth ceiling for $1K acct | Very High | 3 | 1 |
+| 10 | **APH** | ~$140 | Pullback ~16% from ATH; AI/connectivity beneficiary | 24% rev / 30% EPS growth; Strong Buy consensus; infrastructure/AI play | Broad tech rotation risk; today's selloff hitting industrials too | High | 3 | 3 |
+| 11 | **CROX** | — | Reported earnings today (morning) | Strong brand (Crocs + HEYDUDE); potential value play | Discretionary consumer spending risk; need to check results | High | 2 | 3 |
+| 12 | **RIVN** | ~$14.70 | Earnings after close TODAY; -1.8% intraday | EV sector catalyst if margins improve; potential delivery beat | Expected -$0.81 EPS; binary earnings risk tonight; speculative | Medium | 2 | 5 |
+| 13 | **COIN** | — | Earnings after close TODAY; crypto exchange | Crypto market tailwinds; institutional adoption growing | BTC down -3.5% today; crypto volatility; binary earnings risk tonight | High | 2 | 4 |
+| 14 | **RGTI** | ~$25-30 | Quantum computing consolidating | Massive TAM if quantum scales; gov contracts | Speculative; minimal revenue; could easily drop 50%+ | Medium | 1 | 5 |
+| 15 | **STX** | ~$418 | AI storage supercycle; capacity sold out | 53% EPS growth; AI data tailwind | CEO selling; $418/share = too expensive as single stock position for $1K | High | 3 | 3 |
 
 ### Filtered Out
-- **Stellantis (STLA):** -20% on $26B reset — catching a falling knife, thesis unclear.
-- **Ultra-cheap penny stocks:** Fail liquidity/pump filters.
-- **Naked options selling:** Disallowed by rules.
+- **EQIX, MU, STX as stock positions:** Share price too high for $1K account (would exceed 40%+ single-position concentration). Options could work but spreads may be wide.
+- **FSLY as a buy today:** +60% in one session = extreme chase risk. Put on watchlist for pullback.
+- **RGTI:** Confidence too low (1/5); speculative with no fundamental anchor.
+- **RIVN, COIN:** Binary earnings risk tonight — do not buy ahead of unknown results.
+- **Naked options / illiquid microcaps:** Disallowed by rules.
 
 ---
 
-## Preliminary Trade Ideas for Monday (Feb 9)
+## Today's Proposed Actions
 
-> **These are NOT executable today. Weekend research only. Will be refined Sunday night / Monday pre-market.**
+### ⚠️ FAILSAFE MODE ADVISORY
 
-### Idea 1: AMZN — Post-Earnings Mean Reversion (Stock)
-- **Action:** BUY 4 shares AMZN @ limit ~$224–226
-- **Allocation:** ~$900 (90% of equity) — **TOO CONCENTRATED. Reduce to 2 shares (~$450, 45% of equity).**
-- **Thesis:**
-  - AWS growing 24% = fastest in 13 quarters — the market is panicking about capex but ignoring top-line acceleration
-  - 45 analysts have Strong Buy with avg PT $287 (28% upside from current)
-  - Post-earnings dips of this magnitude on AMZN have historically recovered within 2–4 weeks
-- **What would make us wrong:** If CPI comes hot and tech sells off further; if AWS growth decelerates in subsequent quarters; if $200B capex doesn't produce ROI
-- **Risk controls:** Thesis-break if AMZN drops below $200 (implies >10% further downside = ~$50 loss on 2 shares = 5% of equity). Time stop: 20 trading days.
-- **Time horizon:** 10–20 trading days
-- **Confidence:** 4/5 | **Risk:** 3/5
+**Recommendation: NO TRADES TODAY. Stay 100% cash.**
 
-### Idea 2: SHOP — Pre-Earnings Swing (Stock, Higher Risk)
-- **Action:** BUY 4 shares SHOP @ limit ~$111–113 (Monday, ahead of Wed earnings)
-- **Allocation:** ~$448 (45% of equity)
-- **Thesis:**
-  - Management guided mid-high 20% revenue growth for Q4
-  - AI commerce tools expanding TAM
-  - Stock pulled back 3.4% ahead of earnings creating slightly better entry
-- **What would make us wrong:** Earnings miss; AI disruption narrative intensifies; guidance disappoints
-- **Risk controls:** Holding through earnings is BINARY — could drop 15%+ on miss (~$67 loss = 6.7% of equity). Exit immediately if revenue growth decelerates below 20%.
-- **Time horizon:** 5–10 trading days (sell post-earnings reaction)
-- **Confidence:** 3/5 | **Risk:** 4/5
-- **CAUTION:** Holding through earnings with a $1K account is aggressive. Consider waiting until after earnings and buying on confirmation.
+Rationale:
+1. **CPI drops tomorrow morning (Feb 13, 8:30 AM ET).** This is the biggest macro catalyst of the week. A hot CPI could trigger a further selloff of 1-3%. A cool CPI could spark a strong rally. Buying today means taking on uncompensated event risk.
+2. **Broad market selloff in progress.** S&P -1.1%, Nasdaq -1.6%, Russell -2.1%. Megacaps all red. Buying into a selloff the day before CPI is aggressive for a fresh $1K account.
+3. **Strong jobs data already shifted Fed expectations.** The labor market is running hotter than expected. If CPI is also hot, rate-cut pricing will compress further and equities will sell off more.
+4. **Capital preservation is paramount.** We have $1,000 and zero positions. There is no urgency to deploy capital. Missing one day of upside is far less costly than catching a 3% CPI-driven drawdown on day one.
 
-### Idea 3: IREN — Asymmetric Small-Cap (Stock, Speculative)
-- **Action:** BUY 30 shares IREN @ limit ~$14.50–15.50
-- **Allocation:** ~$450 (45% of equity)
-- **Thesis:**
-  - AI data center buildout is a multi-year trend; IREN has real revenue (168% growth) + Nvidia chips
-  - Small enough to move big on catalysts; non-dilutive funding shows capital discipline
-- **What would make us wrong:** AI capex cycle slows (the Amazon narrative cuts both ways); execution stumbles; dilution
-- **Risk controls:** Thesis-break below $12 (~$90 loss = 9% of equity — acceptable but meaningful). Time stop: 30 days.
-- **Time horizon:** 15–30 trading days
-- **Confidence:** 2/5 | **Risk:** 4/5
+### What Changes This Recommendation
+- **Cool CPI (≤2.4% headline, ≤2.5% core):** Green light to buy Friday or Monday. AMZN and SHOP become strong candidates on the post-CPI relief rally.
+- **Hot CPI (≥2.7% headline, ≥2.8% core):** Continue to hold cash. Watch for further selloff to create better entries.
+- **In-line CPI (~2.5% headline, ~2.6% core):** Modest buy window opens. Consider starting with a half-position in AMZN.
 
-### Recommended Monday Combination
-Given $1,000 and the need to diversify:
+### Sells
+None (no positions).
 
-| Idea | Allocation | Max Loss Est. | % of Equity at Risk |
+### Buys
+**None today.** See post-CPI action plan below.
+
+### Post-CPI Action Plan (Friday Feb 13 / Monday Feb 17)
+
+**Scenario A — Cool CPI (bullish):**
+| Trade | Details | Allocation | Max Loss Est. |
 |---|---|---|---|
-| AMZN (2 shares) | ~$450 | ~$50 | 5% |
-| KO (5 shares, if seeking safety) | ~$395 | ~$20 | 2% |
-| Cash reserve | ~$155 | $0 | — |
+| BUY AMZN (2 shares) | Limit ~$200-208 | ~$408 (41%) | ~$40 (4%) at $180 stop |
+| BUY SHOP (3 shares) | Limit ~$108-112 | ~$330 (33%) | ~$33 (3%) at $97 stop |
+| Cash reserve | | ~$262 (26%) | $0 |
 
-**OR (more aggressive):**
-
-| Idea | Allocation | Max Loss Est. | % of Equity at Risk |
+**Scenario B — Hot CPI (defensive):**
+| Trade | Details | Allocation | Max Loss Est. |
 |---|---|---|---|
-| AMZN (2 shares) | ~$450 | ~$50 | 5% |
-| IREN (30 shares) | ~$450 | ~$90 | 9% |
-| Cash reserve | ~$100 | $0 | — |
+| Hold 100% cash | Wait for dust to settle | $1,000 | $0 |
+| Watchlist: AMZN, SHOP, IREN for deeper dip | | | |
 
-> **Decision required from user before market open Monday.** Neither combination guarantees returns. The conservative mix caps realistic max loss at ~$70 (7%). The aggressive mix has more upside but realistic max loss of ~$140 (14%).
+**Scenario C — In-line CPI (neutral):**
+| Trade | Details | Allocation | Max Loss Est. |
+|---|---|---|---|
+| BUY AMZN (2 shares) | Limit ~$200-206 | ~$408 (41%) | ~$40 (4%) at $180 stop |
+| Cash reserve | | ~$592 (59%) | $0 |
+| Add SHOP or IREN next week if market stabilizes | | | |
 
 ---
 
 ## Risk Management
 
 ### Overall
-- **Max portfolio drawdown tolerance:** Recommend hard stop at -15% ($850 equity). If reached, go to 100% cash and reassess.
-- **CPI risk (Feb 11–13):** A hot CPI could trigger broad selling. Consider sizing light Monday and adding Tuesday if CPI is benign.
-- **Concentration risk:** With $1K, any single stock position is inherently concentrated. Never put >50% in one name.
-- **Earnings risk:** KO (Mon) and SHOP (Wed) report this week. Avoid holding through earnings unless thesis is high-conviction.
+- **Max portfolio drawdown tolerance:** Hard stop at -15% ($850 equity). If reached, go to 100% cash and reassess.
+- **CPI event risk (TOMORROW):** This is why we recommend staying in cash today. A hot CPI print could hit equities 2-3% or more.
+- **Concentration risk:** With $1K, any stock position is inherently concentrated. Cap at ~45% per name.
+- **Sell budget:** 3/3 remaining (unused). Plenty of room to exit positions if needed.
+
+### Volatility Regime
+- VIX at 17.64 — elevated but not panic territory. Range today 16.75-18.96.
+- If VIX breaks above 20, shift to full capital preservation mode.
+- Broad tech selloff is concerning but not abnormal given CPI-eve positioning.
 
 ### Single Points of Failure
-- All-tech portfolio would be vulnerable to another AI capex panic
-- Pre-CPI positioning carries macro risk
-- Small account means commission costs and spreads matter more proportionally
+- All-tech portfolio would be vulnerable to another CPI shock or AI capex doubt wave.
+- Pre-CPI positioning carries asymmetric downside risk for a fresh account.
+- Small account means commission costs and bid/ask spreads matter proportionally more.
 
 ---
 
 ## What to Watch Next
 
-### Price Levels
-- **S&P 500:** Watch if 6,900 holds as support (Friday close 6,932). Resistance at ATH ~7,000.
-- **AMZN:** Watch $220 support. Below $215 = momentum breakdown.
-- **NVDA:** Watch $180 support. Above $190 = continuation of rebound.
-- **VIX:** If VIX drops below 16, risk-on trade strengthens. Above 20 = caution.
+### Key Times
+- **TONIGHT after close:** COIN, RIVN, ROKU, DKNG, PINS earnings — watch for sentiment shifts.
+- **Fri Feb 13, 8:30 AM ET:** January CPI release. **THE key event.** Consensus: 2.5% headline, 2.6% core.
+- **Fri Feb 13 open:** React to CPI. If cool, consider deploying capital.
+- **Mon Feb 17:** Presidents' Day — **MARKET CLOSED.** Any Friday positions must hold through a 3-day weekend.
 
-### Key Times This Week
-- **Mon Feb 10 pre-market:** KO earnings
-- **Wed Feb 11 pre-market:** SHOP earnings
-- **Wed Feb 11–Thu Feb 13:** CPI release (exact date TBC, likely Feb 11 or 13 at 8:30 AM ET)
-- **Daily:** Fed speaker schedule — monitor for hawkish/dovish shifts
+### Price Levels
+- **S&P 500:** Watch 6,800 support (3.3% below Wednesday close). Above 6,950 = bullish resumption.
+- **AMZN:** Watch $200 psychological support. Below $195 = extended breakdown. Above $210 = recovery.
+- **SHOP:** Post-earnings selloff may stabilize near $105-108. Watch for analyst revision cycle.
+- **NVDA:** $185 support. Above $195 = continuation.
+- **VIX:** Below 16 = risk-on. Above 20 = risk-off. Currently 17.64.
+
+### Important Note on Friday Trades
+Monday Feb 17 is Presidents' Day (market closed). Any positions entered Friday must be held through a 3-day weekend. Factor in extra time risk when sizing Friday buys.
 
 ### Follow-Up Research Tasks
-- [ ] Confirm exact CPI release date (Feb 11 vs Feb 13)
-- [ ] Check AMZN pre-market price Monday for entry viability
-- [ ] Review SHOP analyst revisions over the weekend
-- [ ] Scan for any new M&A/FDA/major news over the weekend
-- [ ] Check options pricing on AMZN/SHOP for defined-risk alternatives to stock
+- [ ] Review CPI data at 8:30 AM Friday — immediately reassess trade plan
+- [ ] Check tonight's COIN/RIVN/ROKU earnings for sector signals
+- [ ] Monitor AMZN price action near $200 support
+- [ ] Check if SHOP stabilizes post-earnings or continues lower
+- [ ] Reassess IREN — massive Microsoft contract is compelling but Q2 earnings miss was ugly
+- [ ] Review FSLY post-surge for pullback entry over coming days
 
 ---
 
 ## Appendices
 
+### Earnings Calendar This Week (Remaining)
+| Date | Time | Company | Ticker | Notes |
+|---|---|---|---|---|
+| Thu Feb 12 (tonight) | After close | Coinbase | COIN | EPS est: $0.61 |
+| Thu Feb 12 (tonight) | After close | Rivian | RIVN | EPS est: -$0.81 |
+| Thu Feb 12 (tonight) | After close | Roku | ROKU | Streaming metrics key |
+| Thu Feb 12 (tonight) | After close | DraftKings | DKNG | Super Bowl catalyst? |
+| Thu Feb 12 (tonight) | After close | Pinterest | PINS | Ad revenue growth |
+
+### Key Movers Today (Feb 12)
+| Stock | Move | Reason |
+|---|---|---|
+| **FSLY** | +60% | Blockbuster Q4 earnings; agentic AI traffic tailwind |
+| **EQIX** | +8% | Q4 beat; aggressive 2026 AI data center guidance |
+| **MU** | +10% | HBM4 volume shipments confirmed ahead of schedule |
+| **MCD** | Slight + | Earnings beat; Extra Value Meal success |
+| **BUD** | +3% | Earnings topped estimates; Olympics/World Cup tailwinds |
+| **CSCO** | -12% | Margin outlook disappointed; chip cost pressure |
+| **APP** | -19% | Weak earnings — largest large-cap decliner today |
+| **AAPL** | -4% | Broad tech selloff; AI concerns |
+| **PLTR** | -6.3% | Valuation unwind continues from $207 peak |
+| **BAX** | -14% | Profit forecast missed; hurricane manufacturing issues |
+| **SHOP** | -6% (yesterday) | EPS miss despite revenue beat; margin guidance soft |
+
+### S&P 500 Earnings Season Stats (Q4 2025)
+- 291 of 500 companies reported: 79% beat EPS, 65% beat revenue.
+- Blended Q4 EPS growth: ~12% YoY. Revenue growth: +9.25% YoY.
+
 ### Sources
-- [CNBC — Stock market news Feb 6](https://www.cnbc.com/2026/02/05/stock-market-today-live-updates.html)
-- [CNN — Dow rebounds from tech meltdown](https://www.cnn.com/2026/02/06/markets/tech-stocks-meltdown-why)
-- [CNBC — Amazon earnings](https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html)
-- [CNBC — Palantir earnings](https://www.cnbc.com/2026/02/03/palantir-soars-after-strong-earnings-what-analysts-highlighted.html)
-- [MarketMinute — Seagate AI storage](https://markets.financialcontent.com/stocks/article/marketminute-2026-2-5-the-ai-storage-pivot-seagate-shares-rocket-19-as-hard-drive-demand-hits-unprecedented-peaks)
-- [Schwab Market Update](https://www.schwab.com/learn/story/stock-market-update-open)
-- [StockMarketWatch](https://stockmarketwatch.com/live/stock-market-today/)
-- [Nasdaq — Momentum picks Feb 2026](https://www.nasdaq.com/articles/5-momentum-picks-february-after-wall-streets-solid-start-2026)
-- [Barchart — Rapid-growth stocks](https://www.barchart.com/story/news/37385616/momentum-is-just-starting-for-these-3-rapid-growth-stocks-in-2026)
-- [BLS — CPI Schedule](https://www.bls.gov/schedule/2026/home.htm)
+- [CNBC — Stock market Feb 11](https://www.cnbc.com/2026/02/10/stock-market-today-live-updates.html)
+- [CNBC — Shopify Q4 earnings](https://www.cnbc.com/2026/02/11/shopify-shop-earnings-q4-2025.html)
+- [CNBC — Coca-Cola Q4 earnings](https://www.cnbc.com/2026/02/10/coca-cola-ko-q4-2025-earnings.html)
+- [Yahoo Finance — Jobs surprise](https://ca.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-jobs-surprise-puts-focus-back-on-feds-rate-path-233948352.html)
+- [Schwab — Market Update](https://www.schwab.com/learn/story/stock-market-update-open)
+- [Seeking Alpha — CPI preview](https://seekingalpha.com/article/4867319-four-things-to-consider-january-2026-cpi-report)
+- [Kiplinger — CPI expectations](https://www.kiplinger.com/investing/economy/cpi-report-january-2026-what-to-expect)
+- [SiliconAngle — Fastly earnings](https://siliconangle.com/2026/02/11/fastly-surges-30-crushing-estimates-lifting-2026-forecast/)
+- [Invezz — Fastly AI play](https://invezz.com/news/2026/02/12/fastly-stock-dubbed-an-underappreciated-ai-play-after-blockbuster-q4-earnings/)
+- [Blockonomi — Micron HBM4](https://blockonomi.com/micron-mu-stock-surges-10-on-accelerated-hbm4-chip-timeline/)
+- [Seeking Alpha — Equinix outlook](https://seekingalpha.com/news/4550826-equinix-outlines-9-10-percent-2026-revenue-growth-as-ai-driven-bookings-accelerate)
+- [Seeking Alpha — IREN pivot](https://finance.yahoo.com/news/iren-pivot-ai-infrastructure-microsoft-140723163.html)
+- [Coca-Cola IR — Q4 results](https://investors.coca-colacompany.com/news-events/press-releases/detail/1151/coca-cola-reports-fourth-quarter-and-full-year-2025-results)
+- [TipRanks — Feb 12 earnings](https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-february-12-2026)
+- [24/7 Wall St — Feb 12 market](https://247wallst.com/investing/2026/02/12/stock-market-live-february-12-2026-sp-500-spy-could-see-higher-highs/)
+- [Nasdaq — Market news Feb 12](https://www.nasdaq.com/articles/stock-market-news-feb-12-2026)
 - [Trading Economics — VIX](https://tradingeconomics.com/united-states/cboe-volatility-index-vix-fed-data.html)
-- [Advisor Perspectives — Treasury Snapshot](https://www.advisorperspectives.com/dshort/updates/2026/02/06/treasury-yields-snapshot-february-6-2026)
-- [Kiplinger — Earnings Calendar](https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks)
-- [Morningstar — Weekly Market Update](https://www.morningstar.com/stocks/weekly-market-update-stocks-gain-01-energy-rises-basic-materials-fall)
 
 ### Chart Files
-- No charts generated (weekend; Python charts will be produced on next market day)
+- `/charts/2026-02-12_equity_curve.png` — Equity curve (flat at $1,000)
+- `/charts/2026-02-12_allocation.png` — Portfolio allocation (100% cash)
+- `/charts/2026-02-12_market_snapshot.png` — Today's index performance
+- `/charts/2026-02-12_candidates.png` — Candidate confidence vs risk scores
 
 ---
 
-*Briefing generated: 2026-02-07 ~5:30 PM ET. Next briefing: Monday 2026-02-09 pre-market.*
+*Briefing generated: 2026-02-12 ~10:00 AM ET. Next briefing: Friday 2026-02-13 (post-CPI).*

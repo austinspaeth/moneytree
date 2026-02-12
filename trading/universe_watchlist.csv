@@ -1,11 +1,13 @@
 symbol,sector,tags,price_approx,notes,added
-NVDA,Tech/AI,momentum;AI;large-cap,185,AI leader; rebounded +8% Friday after midweek selloff; key AI infrastructure play,2026-02-07
-AMZN,Tech/E-commerce,post-earnings-dip;cloud;large-cap,225,Dropped ~9% on earnings miss + $200B capex plan; AWS grew 24% (fastest in 13 quarters); 45 analysts Strong Buy avg PT $287,2026-02-07
-SHOP,Tech/E-commerce,pre-earnings;growth;mid-cap,112,Earnings Feb 11 pre-market; Q4 rev expected $2.95B; AI disruption concerns dragging; mid-high 20% rev growth guided,2026-02-07
-KO,Consumer Staples,pre-earnings;defensive;dividend,79,Earnings Feb 10; 2.64% yield; 4% rev growth expected; YTD +13%; classic defensive hold,2026-02-07
-PLTR,Tech/AI,post-earnings-beat;AI;growth,100,Beat Q4 big (70% rev growth); guided FY26 $7.2B vs $6.2B expected; very high valuation; strong momentum,2026-02-07
-APH,Industrials/Tech,pullback;momentum;connectivity,145,Pulled back 15% from ATH $167; 24% rev / 30% EPS growth expected; AI/connectivity beneficiary; Strong Buy consensus,2026-02-07
-STX,Tech/Storage,post-earnings-beat;AI-storage;momentum,418,AI storage supercycle; beat Q2 big; +19% on earnings; capacity sold out; but CEO selling shares,2026-02-07
-DECK,Consumer/Retail,post-earnings-beat;growth,112,Beat Q3 by 20%; raised FY guide; HOKA brand driving growth; premium valuation,2026-02-07
-RGTI,Tech/Quantum,speculative;high-beta;quantum,30,Quantum computing; +4300% run 2024-25; consolidating near $30; high risk/reward,2026-02-07
-IREN,Tech/AI-Infra,growth;AI-data-center;small-cap,15,AI data center play; 168% YoY rev growth; $96M non-dilutive funding; Nvidia chips,2026-02-07
+AMZN,Tech/E-commerce,post-earnings-dip;cloud;large-cap,204,Down ~19% from Nov highs; AWS 24% growth; 45 analysts Strong Buy avg PT $283; CPI risk tomorrow,2026-02-12
+NVDA,Tech/AI,momentum;AI;large-cap,189,AI chip leader; Commerce Sec confirmed no export restrictions; avg PT $254; HBM demand surging,2026-02-12
+MU,Tech/Semiconductors,HBM4;AI-memory;large-cap,430,HBM4 volume shipments 1Q ahead of schedule; 2026 supply sold out; MS PT $450 DB PT $500; too expensive per share for $1K,2026-02-12
+SHOP,Tech/E-commerce,post-earnings;growth;mid-cap,110,Q4 rev beat +30.6% but EPS miss; guided low-30s Q1 rev growth; $2B buyback; TD Cowen upgraded Buy PT $159; stock -13% on report,2026-02-12
+FSLY,Tech/CDN,post-earnings-beat;AI-traffic;small-cap,16,Blockbuster Q4; agentic AI traffic tailwind; +60% today; FY26 guide $700-720M vs $668M est; William Blair upgraded,2026-02-12
+EQIX,Tech/Data-Center,post-earnings-beat;AI-infra;REIT,1000,Q4 beat; 2026 guide $10.1-10.2B above est; +8% today; AI data center demand; too expensive per share for $1K,2026-02-12
+PLTR,Tech/AI,post-earnings-beat;AI;growth,135,70% rev growth; FY26 guide $7.2B; but extreme valuation 199x PE; down 35% from $207 peak; selling off -6.3% today,2026-02-12
+IREN,Tech/AI-Infra,growth;AI-data-center;Microsoft-contract,43,Microsoft $9.7B AI cloud contract; $1.9B ARR potential; pivoting from BTC mining; analyst PTs $79-105; Q2 miss ugly,2026-02-12
+KO,Consumer Staples,post-earnings;defensive;dividend,78,Q4 EPS beat revenue miss; 63 consecutive div increases; 2026 guide 4-5% organic rev; CEO departing March 2026,2026-02-12
+APH,Industrials/Tech,pullback;momentum;connectivity,140,Pulled back 16% from ATH; 24% rev / 30% EPS growth; AI/connectivity beneficiary; Strong Buy consensus,2026-02-12
+RIVN,Auto/EV,pre-earnings;speculative,15,Earnings tonight after close; EPS est -$0.81; watch margin trajectory; binary outcome,2026-02-12
+COIN,Finance/Crypto,pre-earnings;crypto,0,Earnings tonight after close; EPS est $0.61; crypto exchange; BTC down today,2026-02-12
